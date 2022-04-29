@@ -1,4 +1,4 @@
-package serviceexporter
+package exporter
 
 import (
 	"fmt"
