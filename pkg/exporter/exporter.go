@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/edribeirojunior/aws-service-quotas-exporter/pkg/service_quotas/servicequotas"
+	"github.com/edribeirojunior/core-pks/pkg/service_quotas/servicequotas"
 	"github.com/pkg/errors"
 	"github.com/prometheus/client_golang/prometheus"
 	logging "github.com/sirupsen/logrus"
